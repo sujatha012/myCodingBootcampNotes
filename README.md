@@ -59,3 +59,21 @@ git status - tells you what state your git is in
 
 git commit notes changes to local reposityory
 
+up key: goes to the previous command
+
+Tab key(while typing a file/folder name): Fills out the filename if it's there and unique
+
+Special directorys:
+
+~/ - User directory (/Users/s
+
+../- one directory up
+
+. / - current directory
+
+/ - root directory
+
+###cp <targetfile> <destination file>- copy the file from target to destination
+
+### mv <targetfile> <destination file> - moves a file from target to destination
+
