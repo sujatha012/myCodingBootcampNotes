@@ -49,3 +49,13 @@ removes or deletes a file
 ### rmdir <directory>
 
 removes or deletes a directory
+git add adds for the inclusion of the git
+
+git pull-pulls newest version of repository
+
+git push- send the changes to hosting service ie git hub
+
+git status - tells you what state your git is in
+
+git commit notes changes to local reposityory
+
